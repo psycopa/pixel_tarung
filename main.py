@@ -42,10 +42,10 @@ async def main():
             stats = user.getStats()
 
             message = f"""
-                                        {Back.MAGENTA}{Fore.WHITE}PixelBot{Style.RESET_ALL} | Made by {Back.MAGENTA + Fore.WHITE}S1NJED{Style.RESET_ALL}
+                                        {Back.MAGENTA}{Fore.WHITE}PixelBot{Style.RESET_ALL} | Made by {Back.MAGENTA + Fore.WHITE}NDSFIVE{Style.RESET_ALL}
 
-                                            Support me please :)
-                                {Fore.GREEN}$USDT{Style.RESET_ALL} (ERC20 or BEP20): {Back.WHITE + Fore.BLACK}0x0A9072E3C4Fae8e239Db12B3287eF88A3e9Da5A2{Style.RESET_ALL}
+                                            SUPPORT JIKA BERKENAN 
+                                {Fore.GREEN}$USDT{Style.RESET_ALL} (ERC20 or BEP20): {Back.WHITE + Fore.BLACK}0x0d20E7b31bAE5c710BC76eb7B87b39F88b2cCFf9{Style.RESET_ALL}
 
                                             Logged in as {Style.BRIGHT + Fore.GREEN}{userInfo['username']}{Style.RESET_ALL}{Fore.GREEN + Style.BRIGHT}
 
