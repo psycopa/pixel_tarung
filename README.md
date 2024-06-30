@@ -5,7 +5,7 @@
       
    # go to directory
       
-      cd PixelTapBot
+      cd pixel_tarung
       
    # install req
       
